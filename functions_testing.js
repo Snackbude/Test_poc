@@ -5,3 +5,7 @@
 function sayHello(){
    let message = getMessage("hello");
 }
+
+function sayGoodbye(){
+   let message = getMessage("hello");
+}
